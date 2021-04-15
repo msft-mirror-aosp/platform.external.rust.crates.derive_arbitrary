@@ -7,13 +7,13 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://static.crates.io/crates/derive_arbitrary/derive_arbitrary-1.0.0-rc2.crate"
+    value: "https://static.crates.io/crates/derive_arbitrary/derive_arbitrary-1.0.0.crate"
   }
-  version: "1.0.0-rc2"
+  version: "1.0.0"
   license_type: NOTICE
   last_upgrade_date {
     year: 2021
-    month: 2
-    day: 9
+    month: 4
+    day: 1
   }
 }
